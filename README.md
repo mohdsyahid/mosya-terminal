@@ -75,6 +75,70 @@ Restart PowerShell.
 Done. 🎉
 
 ---
+---
+
+# ⚙️ Customization
+
+MOSYA Terminal is designed to be easily customizable.
+
+## Change Your Display Name
+
+Open:
+
+```text
+.mosya/config.ps1
+```
+
+Edit the following variable:
+
+```powershell
+$TerminalName = "MOSYA"
+```
+
+Example:
+
+```powershell
+$TerminalName = "John"
+```
+
+Result:
+
+```text
+🧑‍💻 John
+```
+
+---
+
+## Change Your Workspace Path
+
+Open:
+
+```text
+.mosya/projects.ps1
+```
+
+Update your project directories to match your local environment.
+
+Example:
+
+```powershell
+$Projects = @{
+    "Work" = "D:\Projects\Work"
+    "Personal" = "D:\Projects\Personal"
+}
+```
+
+---
+
+## Customize Theme
+
+Edit:
+
+```text
+.mosya/theme.ps1
+```
+
+to change colors, prompt style, and terminal appearance.
 
 # 📁 Project Structure
 
