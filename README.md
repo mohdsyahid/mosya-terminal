@@ -34,6 +34,11 @@ A modular PowerShell environment designed for developers who want a clean startu
 - 💻 Designed for Windows developers
 
 ---
+## 🎬 Demo
+
+<p align="center">
+  <img src="docs/demo.gif" alt="MOSYA Terminal Demo" width="900">
+</p>
 
 
 
@@ -174,17 +179,12 @@ Feel free to fork the repository and submit a Pull Request.
 
 ---
 
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 **Mohd Syahid**
 
-🌐 Website
-
-https://mosya.my
-
-GitHub
-
-https://github.com/mohdsyahid
+- 🌐 Website: https://mosya.my
+- 💻 GitHub: https://github.com/mohdsyahid
 
 ---
 
