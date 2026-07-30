@@ -29,23 +29,13 @@ A modular PowerShell environment designed for developers who want a clean startu
 
 ---
 
+
+
 ## 📸 Screenshot
 
-> *(Coming Soon)*
-
-Save your dashboard screenshot as:
-
-```
-docs/screenshot.png
-```
-
-Then replace this section with:
-
-```markdown
 <p align="center">
-<img src="docs/screenshot.png" width="900">
+    <img src="docs/screenshot.png" alt="MOSYA Terminal" width="900">
 </p>
-```
 
 ---
 
