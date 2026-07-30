@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 MOSYA Terminal
+# MOSYA Terminal
 
 ### Lightweight PowerShell Developer Workspace for Windows
 
