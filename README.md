@@ -4,6 +4,12 @@
 
 ### Lightweight PowerShell Developer Workspace for Windows
 
+![Release](https://img.shields.io/github/v/release/mohdsyahid/mosya-terminal)
+![Stars](https://img.shields.io/github/stars/mohdsyahid/mosya-terminal)
+![Forks](https://img.shields.io/github/forks/mohdsyahid/mosya-terminal)
+![Issues](https://img.shields.io/github/issues/mohdsyahid/mosya-terminal)
+![License](https://img.shields.io/github/license/mohdsyahid/mosya-terminal)
+
 A modular PowerShell environment designed for developers who want a clean startup dashboard, workspace launcher, and a fast custom terminal experience.
 
 ![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?logo=windows)
